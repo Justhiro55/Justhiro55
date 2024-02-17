@@ -1,6 +1,8 @@
 ### Hi there 👋
 ![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=Justhiro55&layout=compact&theme=tokyonight)
 
+### 42 stats
+[![<username>'s 42 stats](https://badge.mediaplus.ma/Darkgray/hhagiwar)](https://github.com/oakoudad/badge42)
 
 <!--
 **Justhiro55/Justhiro55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
