@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hi there
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Justhiro55&layout=compact&theme=tokyonight" alt="Top Languages Card" style="width: 47%;" />
@@ -7,7 +7,7 @@
   </a>
 </div>
 
-# 🚀 École 42 Projects Overview
+### 🚀 École 42 Projects Overview
 
 A journey through software development and computer science at École 42.
 
