@@ -2,9 +2,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Justhiro55&layout=compact&theme=tokyonight" alt="Top Languages Card" style="width: 67%;" />
-  <a href="https://github.com/oakoudad/badge42">
-    <img src="https://badge.mediaplus.ma/Darkgray/hhagiwar" alt="username's 42 stats" style="width: 66%;" />
-  </a>
 </div>
 
 ## 🚀 École 42 Projects Overview
