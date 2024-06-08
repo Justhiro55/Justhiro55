@@ -2,14 +2,13 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Justhiro55&layout=compact&theme=tokyonight" alt="Top Languages Card" style="width: 67%;" />
-  
-  [![hhagiwar's 42 stats](https://badge.mediaplus.ma/<darkblue>/hhagiwar)](https://github.com/oakoudad/badge42)
 
+  [![hhagiwar's 42 stats](https://badge.mediaplus.ma/<darkblue>/hhagiwar)](https://github.com/oakoudad/badge42)
 </div>
 
 ## 🚀 École 42 Projects Overview
 
-A journey through software development and computer science at École 42.
+### A journey through software development and computer science at École 42.
 
 - **📚 [Libft](https://github.com/Justhiro55/libft)**: C library recreation
 - **📃 [Get Next Line](https://github.com/Justhiro55/get_next_line)**: File I/O in C
