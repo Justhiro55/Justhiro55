@@ -20,4 +20,4 @@ A journey through software development and computer science at École 42.
 - **🚀 [C++ Modules](https://github.com/Justhiro55/cpp)**: C++ OOP fundamentals
 
 ## On-campus portfolio service
-📁 [Funcy](https://github.com/Funcy-ICT)
+- **📁 [Funcy](https://github.com/Funcy-ICT)**
