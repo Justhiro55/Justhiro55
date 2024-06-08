@@ -19,6 +19,7 @@
 - **🐚 [Minishell](https://github.com/Justhiro55/minishell)**: UNIX shell simulator
 - **🧩 [Push_swap](https://github.com/Justhiro55/push_swap)**: Sorting algorithm optimizer
 - **🍽️ [Philosophers](https://github.com/Justhiro55/Philosophers)**: Concurrency challenge
+- **🛠️ [Born2beroot](https://github.com/Justhiro55/Born2beroot)**: Set up CLI Debian OS in VirtualBox
 - **🚀 [C++ Modules](https://github.com/Justhiro55/cpp)**: C++ OOP fundamentals
 
 ## On-campus portfolio service
