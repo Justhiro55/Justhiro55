@@ -1,7 +1,7 @@
 ## 👋 Hi there
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Justhiro55&layout=compact&theme=tokyonight" alt="Top Languages Card" style="width: 50%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Justhiro55&layout=compact&theme=tokyonight" alt="Top Languages Card" style="width: 55%;" />
 </div>
 
 ## 🚀 École 42 Projects Overview
