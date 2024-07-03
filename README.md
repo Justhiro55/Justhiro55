@@ -5,8 +5,6 @@
 </div>
 
 ## 🚀 École 42 Projects Overview
-
-### A journey through software development and computer science at École 42.
 <div align="center">
 
   [![hhagiwar's 42 stats](https://badge.mediaplus.ma/<darkblue>/hhagiwar)](https://github.com/oakoudad/badge42)
