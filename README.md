@@ -30,7 +30,7 @@
 - **🛠️ [Born2beroot](https://github.com/Justhiro55/Born2beroot)**: Set up Debian OS in VirtualBox
 - **🖥️ [Inception](https://github.com/Justhiro55/inception-42)**: Containerized WordPress with Docker
 - **🚀 [C++ Modules](https://github.com/Justhiro55/cpp)**: C++ OOP fundamentals
-- **💬 [ft_irc](https://github.com/Justhiro55/ft_irc)**: IRC server with multi-client support(wip)
+- **💬 [ft_irc](https://github.com/Justhiro55/ft_irc)**: IRC server with multi-client support
 
 ## On-campus portfolio service
 - **📁 [Funcy](https://github.com/Funcy-ICT)**: sharing portfolios within the university.
