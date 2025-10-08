@@ -13,7 +13,9 @@
 
 ### status
 <div align="center">
-  [![hhagiwar's 42 stats](https://badge.mediaplus.ma/<darkblue>/hhagiwar)](https://github.com/oakoudad/badge42)
+  <a href="https://github.com/oakoudad/badge42">
+    <img src="https://badge.mediaplus.ma/darkblue/hhagiwar" alt="hhagiwar's 42 stats">
+  </a>
 </div>
 
 ### projects
