@@ -13,7 +13,6 @@
 
 ### status
 <div align="center">
-
   [![hhagiwar's 42 stats](https://badge.mediaplus.ma/<darkblue>/hhagiwar)](https://github.com/oakoudad/badge42)
 </div>
 
@@ -31,6 +30,7 @@
 - **🖥️ [Inception](https://github.com/Justhiro55/inception-42)**: Containerized WordPress with Docker
 - **🚀 [C++ Modules](https://github.com/Justhiro55/cpp)**: C++ OOP fundamentals
 - **💬 [ft_irc](https://github.com/Justhiro55/ft_irc)**: IRC server with multi-client support
+- **🏓 [ft_transcendence](https://github.com/Justhiro55/ft_transcendence)**: Full-stack Pong tournament platform with real-time multiplayer
 
 ## On-campus portfolio service
 - **📁 [Funcy](https://github.com/Funcy-ICT)**: sharing portfolios within the university.
@@ -38,6 +38,3 @@
 ## hachathon
 - **📁 [conoha](https://github.com/Justhiro55/ConoHA)**
 - **🗺️ [Funmap](https://github.com/Justhiro55/FunMap)**
-
-
-
