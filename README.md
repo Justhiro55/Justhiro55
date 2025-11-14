@@ -5,8 +5,8 @@
 🌱 Former SDE Intern in **Lifestyle & Recruitment Services**
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Justhiro55&layout=compact&theme=tokyonight" alt="Top Languages" style="height: 210px; object-fit: cover;"/>
-  <img src="https://badge.mediaplus.ma/darkblue/hhagiwar" alt="42 stats" style="height: 210px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Justhiro55&layout=compact&theme=tokyonight" alt="Top Languages" style="height: 200px; object-fit: cover;"/>
+  <img src="https://badge.mediaplus.ma/darkblue/hhagiwar" alt="42 stats" style="height: 200px;"/>
 </div>
 
 ## 🔗 Links
