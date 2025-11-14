@@ -1,42 +1,31 @@
-<h1 align="center">Hi 👋, I'm Justhiro55.</h1>
-
-- 🎓 Master's student at **Future University Hakodate** and student at **42 Tokyo**
-- 👨‍💻 Researching **Network Security** as a graduate student
-- 🌱 I have worked as an SDE intern at a company in **lifestyle** and **recruitment** services
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Justhiro55&layout=compact&theme=tokyonight" alt="Top Languages Card" style="width: 65%;" />
+
+## Hi 👋, I'm Justhiro55
+
+🎓 Master's student at **Future University Hakodate** & **42 Tokyo**  
+👨‍💻 Researching **Network Security**  
+🌱 Former SDE Intern in **Lifestyle & Recruitment Services**
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Justhiro55&layout=compact&theme=tokyonight" alt="Top Languages" width="450"/>
+
+<br>
+
+<img src="https://badge.mediaplus.ma/darkblue/hhagiwar" alt="42 stats" width="450"/>
+
+<br>
+<br>
+
+### Links
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/____beatnik)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hiromichi-hagiwara-28b071279)
+[![Wantedly](https://img.shields.io/badge/Wantedly-21BDDB?style=for-the-badge&logo=wantedly&logoColor=white)](https://www.wantedly.com/id/JustHiro)
+[![Zenn](https://img.shields.io/badge/Zenn-3EA8FF?style=for-the-badge&logo=zenn&logoColor=white)](https://zenn.dev/justhiro)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://justhiro55.netlify.app/)
+[![Crates.io](https://img.shields.io/badge/Crates.io-000000?style=for-the-badge&logo=rust&logoColor=white)](https://crates.io/users/Justhiro55)
+
 </div>
 
-## 🚀 École 42 Projects Overview
-[Why I decided to join 42](https://note.com/__justhiro/n/n8538a9d4cec1)
-
-### status
-<div align="center">
-  <a href="https://github.com/oakoudad/badge42">
-    <img src="https://badge.mediaplus.ma/darkblue/hhagiwar" alt="hhagiwar's 42 stats">
-  </a>
 </div>
-
-### projects
-- **📚 [Libft](https://github.com/Justhiro55/libft)**: C library recreation
-- **📃 [Get Next Line](https://github.com/Justhiro55/get_next_line)**: File I/O in C
-- **🖨️ [Ft_printf](https://github.com/Justhiro55/ft_printf)**: Printf function clone
-- **🌌 [FdF](https://github.com/Justhiro55/FdF)**: 3D wireframe renderer
-- **🎮 [Cub3D](https://github.com/Justhiro55/Cub3d)**: Ray-casting 3D game engine
-- **📡 [Minitalk](https://github.com/Justhiro55/minitalk)**: Signal-based communication
-- **🐚 [Minishell](https://github.com/Justhiro55/minishell)**: UNIX shell simulator
-- **🧩 [Push_swap](https://github.com/Justhiro55/push_swap)**: Sorting algorithm optimizer
-- **🍽️ [Philosophers](https://github.com/Justhiro55/Philosophers)**: Concurrency challenge
-- **🛠️ [Born2beroot](https://github.com/Justhiro55/Born2beroot)**: Set up Debian OS in VirtualBox
-- **🖥️ [Inception](https://github.com/Justhiro55/inception-42)**: Containerized WordPress with Docker
-- **🚀 [C++ Modules](https://github.com/Justhiro55/cpp)**: C++ OOP fundamentals
-- **💬 [ft_irc](https://github.com/Justhiro55/ft_irc)**: IRC server with multi-client support
-- **🏓 [ft_transcendence](https://github.com/Justhiro55/ft_transcendence)**: Full-stack Pong tournament platform with real-time multiplayer
-
-## On-campus portfolio service
-- **📁 [Funcy](https://github.com/Funcy-ICT)**: sharing portfolios within the university.
-
-## hachathon
-- **📁 [conoha](https://github.com/Justhiro55/ConoHA)**
-- **🗺️ [Funmap](https://github.com/Justhiro55/FunMap)**
