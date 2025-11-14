@@ -6,13 +6,7 @@
 👨‍💻 Researching **Network Security**  
 🌱 Former SDE Intern in **Lifestyle & Recruitment Services**
 
-<br>
-
-### GitHub Stats
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Justhiro55&layout=compact&theme=tokyonight" alt="Top Languages" width="450"/>
-
-### 42 Profile
 
 <img src="https://badge.mediaplus.ma/darkblue/hhagiwar" alt="42 stats" width="450"/>
 
