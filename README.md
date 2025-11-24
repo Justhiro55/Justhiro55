@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Justhiro55
 
-🎓 Master's student at **Future University Hakodate** and **42Tokyo**  
+🎓 Master's student at **Future University Hakodate** and second-circle **42Tokyo**  
 👨‍💻 Researching **Network Security**  
 🌱 Former SDE Intern in **Lifestyle & Recruitment Services**
 
