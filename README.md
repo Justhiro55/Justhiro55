@@ -1,8 +1,13 @@
 ## Hi 👋, I'm Justhiro55
 
-🎓 Master's student at **Future University Hakodate** and second-circle **42Tokyo**  
-👨‍💻 Researching **Network Security**  
-🌱 Former SDE Intern in **Lifestyle & Recruitment Services**
+Software Engineer at Rakuten Group, Inc
+
+**Education**  
+M.S. in Information Science — Future University Hakodate / 42Tokyo ('23.5~)
+
+**Background**  
+- Previously worked on Network Security research  
+- Former SDE Intern in Lifestyle & Recruitment Services  
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Justhiro55&layout=compact&theme=tokyonight" alt="Top Languages" style="height: 200px; object-fit: cover;"/>
