@@ -10,7 +10,7 @@ M.S. in Information Science — Future University Hakodate / 42Tokyo ('23.5~)
 - Former SDE Intern in Lifestyle & Recruitment Services  
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Justhiro55&layout=compact&theme=tokyonight" alt="Top Languages" style="height: 200px; object-fit: cover;"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Justhiro55&layout=compact&theme=transparent" alt="Top Languages" style="height: 200px; object-fit: cover;"/>
   <img src="https://badge.mediaplus.ma/darkblue/hhagiwar" alt="42 stats" style="height: 200px;"/>
 </div>
 
