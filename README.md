@@ -14,7 +14,7 @@ M.S. in Information Science — Future University Hakodate / 42Tokyo ('23.5~)
   <img src="https://badge.mediaplus.ma/darkblue/hhagiwar" alt="42 stats" style="height: 200px;"/>
 </div>
 
-![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31pt53sxgbomgpfibhmnfci5bt5y&theme=light&width=640&radius=12&avatar=0&unique=1&duration=1&album=1&footer=wave)
+![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31pt53sxgbomgpfibhmnfci5bt5y&theme=light&width=600&radius=12&avatar=0&unique=1&duration=1&album=1&footer=wave)
 
 ## 🔗 Links
 
